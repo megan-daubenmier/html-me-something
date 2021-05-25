@@ -1,0 +1,43 @@
+body {
+
+background-color: FloralWhite;
+text-align: justify;
+margin-top: 25px;
+margin-bottom: 25px;
+margin-right: 50px;
+margin-left: 50px;
+font-family: Calibri
+
+}
+
+ol {
+
+text-align: left
+
+}
+
+.centered {
+
+text-align: center
+
+}
+
+#menu ul{
+  list-style: none;
+}
+#menu li{
+  display: inline;
+}
+
+#frisbeeLinks ul{
+  list-style: none;
+}
+#frisbeeLinks li{
+  display: inline;
+}
+
+footer {
+
+padding: 25px
+
+}
